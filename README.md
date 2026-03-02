@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Juan Angel 👋</h1>
 <h3 align="center">Physics Engineer | Data Science Specialist | Machine Learning & AI Developer</h3>
 
-<div align="center">
-  <img src="https://www.salisbury.edu/explore-academics/programs/undergraduate-degree-programs/majors/physics-major.aspx" height="160"/>
-</div>
 
 ---
 
