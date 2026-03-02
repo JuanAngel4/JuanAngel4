@@ -2,8 +2,7 @@
 <h3 align="center">Physics Engineer | Data Science Specialist | Machine Learning & AI Developer</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact" height="160"/>
+  <img src="https://www.salisbury.edu/explore-academics/programs/undergraduate-degree-programs/majors/physics-major.aspx" height="160"/>
 </div>
 
 ---
@@ -128,14 +127,6 @@ Backend system using FastAPI to:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO"/>
 </div>
 
 ---
