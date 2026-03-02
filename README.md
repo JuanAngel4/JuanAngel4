@@ -1,60 +1,50 @@
-<h1 align="center">Hi, I'm Juan Angel 👋</h1>
-<h3 align="center">Physics Engineer | Data Science Specialist | Machine Learning & AI Developer</h3>
-
-
----
-
-## 🚀 About Me
-
-I am a **Physics Engineer** currently specializing in **Data Science**, focused on building intelligent systems using:
-
-- Machine Learning
-- Computer Vision
-- Deep Learning
-- Scientific Modeling
-- Backend systems for AI deployment
-
-My work combines **strong mathematical foundations** with practical AI applications in real-world problems.
-
-Currently working on:
-- 📡 Object recognition using VIS and NIR drone imagery
-- 🤖 Deep learning models for medical image classification
-- 🔌 APIs to integrate AI models with embedded systems (Arduino + cameras)
+<h1 align="center">Juan Angel</h1>
+<h3 align="center">Physics Engineer | Data Science | Machine Learning & AI Systems</h3>
 
 ---
 
-## 🧠 Technical Skills
+## Profile
 
-### 📊 Data Science & Machine Learning
+Physics Engineer specializing in Data Science and Machine Learning, with a strong foundation in mathematics and scientific modeling.  
+
+Focused on developing intelligent systems that combine rigorous theoretical principles with practical, real-world AI applications.
+
+Current areas of work include computer vision, medical image analysis, and AI deployment through scalable backend systems.
+
+---
+
+## Technical Expertise
+
+### Machine Learning
 - Supervised Learning (Classification & Regression)
-- Model Evaluation & Optimization
+- Model Evaluation and Optimization
 - Feature Engineering
-- Model Deployment
+- Model Deployment Workflows
 
-### 👁 Computer Vision
-- Image preprocessing
-- Data augmentation (Albumentations)
-- CNN architectures
-- GANs & Conditional GANs
-- Medical imaging datasets
+### Computer Vision
+- Image Preprocessing and Augmentation
+- Convolutional Neural Networks (CNNs)
+- GANs and Conditional GANs
+- Multispectral Imaging (VIS & NIR)
+- Medical Imaging Datasets
 
-### 🧮 Mathematical & Scientific Background
+### Mathematical & Scientific Background
 - Linear Algebra
-- Probability & Statistics
-- Quantum Mechanics
+- Probability and Statistics
 - Differential Equations
-- Physical Modeling
+- Quantum Mechanics
+- Physical and Computational Modeling
 
-### ⚙️ Backend & Systems
+### Backend & Systems
 - FastAPI
-- REST APIs
-- Integration with embedded systems
-- Data pipelines
-- Virtual environments & dependency management
+- RESTful API Design
+- AI Model Integration
+- Data Pipelines
+- Environment and Dependency Management
 
 ---
 
-## 🛠 Tech Stack
+## Technology Stack
 
 ### Programming
 - Python
@@ -65,50 +55,47 @@ Currently working on:
 - NumPy
 - Pandas
 - Scikit-learn
-- TensorFlow / PyTorch
+- TensorFlow
+- PyTorch
 - OpenCV
 - Albumentations
 - FastAPI
 
 ---
 
-## 📂 Featured Projects
+## Selected Projects
 
-### 🩺 Medical Image Classification
-Binary classification model for retinal datasets (APTOS + Messidor).
-- Data preprocessing pipeline
-- CNN architecture
-- Model evaluation & metrics
-- Reproducible training environment
+### Medical Image Classification
+Development of a binary classification model using retinal datasets (APTOS and Messidor).  
+- End-to-end data preprocessing pipeline  
+- CNN-based architecture design  
+- Performance evaluation and metrics analysis  
+- Reproducible training environment  
 
----
+### Drone-Based Object Recognition (VIS & NIR)
+Research-focused project applying artificial intelligence to multispectral drone imagery.  
+- Processing and analysis of VIS and NIR data  
+- Feature extraction and model training  
+- Object detection in regional datasets  
 
-### 📡 Drone-based Object Recognition (VIS + NIR)
-Research-oriented project using artificial intelligence to:
-- Process multispectral images
-- Extract relevant features
-- Perform object detection in Colombian regions
-
----
-
-### 🔌 AI API for Embedded Cameras
-Backend system using FastAPI to:
-- Receive images from Arduino-controlled cameras
-- Run object detection models
-- Return inference results via REST API
+### AI API for Embedded Camera Systems
+Backend system for integrating AI models with embedded hardware.  
+- Image ingestion from camera modules  
+- Real-time inference via REST API  
+- Model integration and response handling  
 
 ---
 
-## 📈 What I’m Building Toward
+## Professional Focus
 
-- Becoming a professional **Data Scientist**
-- Specializing in **Computer Vision & AI systems**
-- Developing scalable AI backends
-- Applying physics-based modeling to machine learning problems
+- Applied Machine Learning and Computer Vision  
+- Scalable AI system development  
+- Scientific modeling integrated with data-driven methods  
+- Transition toward advanced Data Science and ML Engineering roles  
 
 ---
 
-## 🌎 Let’s Connect
+## Contact
 
 <div align="center">
 
@@ -125,9 +112,3 @@ Backend system using FastAPI to:
 </a>
 
 </div>
-
----
-
-⭐ Always learning.  
-📚 Strong theoretical background.  
-⚡ Building real AI systems.
